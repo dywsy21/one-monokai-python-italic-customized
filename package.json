@@ -1,11 +1,11 @@
 {
-    "name": "one-monokai",
-    "displayName": "One Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme",
-    "version": "0.5.0",
-    "publisher": "azemoh",
+    "name": "one-monokai-python",
+    "displayName": "One Monokai Python",
+    "description": "Python optimized One Monokai theme",
+    "version": "0.0.3",
+    "publisher": "NoThlnG",
     "engines": {
-        "vscode": "^1.13.0"
+        "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
@@ -14,26 +14,26 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "One Monokai Python",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokai-color-theme.json"
+                "path": "./themes/One Monokai Python-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/Indlgo/one-monokai-python.git"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/Indlgo/one-monokai-python/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/Indlgo/one-monokai-python/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Python"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
-    "license": "MIT"
+    "author": "NoThlnG"
 }

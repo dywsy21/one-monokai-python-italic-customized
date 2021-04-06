@@ -1,1 +1,5 @@
+node_modules
+one-monokai-python-old
 *.vsix
+.vscode/settings.json
+test/
