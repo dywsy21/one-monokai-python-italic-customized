@@ -4,7 +4,7 @@ Python optimized theme based on [One Monokai](https://marketplace.visualstudio.c
 
 ## Screenshot
 
-![screenshot](https://github.com/Indlgo/one-monokai-python/blob/master/screenshot/screenshot.png?raw=true)
+![screenshot](screenshot.png)
 
 ## Difference with One Monokai
 - semanticHighlighting support
