@@ -11,3 +11,8 @@
 ## 0.0.3
 
 - Changed repo to use fork of original
+
+
+## 0.0.4
+
+- Fix invalid file path

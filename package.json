@@ -2,7 +2,7 @@
     "name": "one-monokai-python",
     "displayName": "One Monokai Python",
     "description": "Python optimized One Monokai theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "NoThlnG",
     "engines": {
         "vscode": "^1.55.0"
@@ -16,7 +16,7 @@
             {
                 "label": "One Monokai Python",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Monokai Python-color-theme.json"
+                "path": "./themes/OneMonokai-color-theme.json"
             }
         ]
     },
