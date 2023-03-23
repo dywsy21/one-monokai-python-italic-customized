@@ -218,14 +218,6 @@
     },
     {
       "scope": [
-        "entity.name.function"
-      ],
-      "settings": {
-        "foreground": "#98C379"
-      }
-    },
-    {
-      "scope": [
         "variable.parameter",
         "entity.name.variable.parameter",
         "parameter.variable"
@@ -286,7 +278,7 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#61AFEF"
       }
     },
     {
@@ -549,7 +541,9 @@
       }
     },
     {
-      "scope": "meta.function-call.generic",
+      "scope": [
+        "meta.function-call"
+      ],
       "settings": {
         "foreground": "#98C379"
       }
@@ -593,7 +587,10 @@
       "foreground": "#98C379",
       "italic": true
     },
-    "variable.local.readonly": "#61AFEF",
-    "variable.local": "#BBBBBB"
+    "module": "#BBBBBB",
+    "method": "#98C379",
+    "function.declaration": "#98C379",
+    // "variable.local.readonly": "#61AFEF",
+    "variable": "#BBBBBB"
   }
 }
