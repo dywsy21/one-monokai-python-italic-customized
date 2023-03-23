@@ -15,3 +15,7 @@
 ## 0.0.4
 
 - Fix invalid file path
+
+## 0.1.0
+
+- Add typescript semantic highlighting support
