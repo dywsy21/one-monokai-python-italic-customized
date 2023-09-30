@@ -23,7 +23,7 @@
     "editorGroupHeader.tabsBackground": "#21252b",
     "editorHoverWidget.background": "#21252b",
     "editorHoverWidget.border": "#181a1f",
-    "editorIndentGuide.background": "#3b4048",
+    "editorIndentGuide.background1": "#3b4048",
     "editorLineNumber.foreground": "#495162",
     "editorRuler.foreground": "#484848",
     "editorSuggestWidget.background": "#21252b",
@@ -378,14 +378,12 @@
       "scope": "invalid",
       "settings": {
         "foreground": "#F8F8F0",
-        "background": "#C678DD"
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
         "foreground": "#F8F8F0",
-        "background": "#56B6C2"
       }
     },
     {
@@ -581,16 +579,18 @@
     }
   ],
   "semanticTokenColors": {
+    "variable:javascript": "#BBBBBB",
+    "variable:typescript": "#BBBBBB",
+    "module": "#BBBBBB",
+    "method": "#98C379",
+    "function.declaration": "#98C379",
     "selfParameter": "#ab63f2",
-    "*.decorator": "#56B6C2",
     "magicFunction": {
       "foreground": "#98C379",
       "italic": true
     },
-    "module": "#BBBBBB",
-    "method": "#98C379",
-    "function.declaration": "#98C379",
+    "*.decorator": "#56B6C2",
+    "method.decorator": "#BBBBBB",
     // "variable.local.readonly": "#61AFEF",
-    "variable": "#BBBBBB"
   }
 }
