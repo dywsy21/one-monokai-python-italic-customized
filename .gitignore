@@ -3,3 +3,4 @@ one-monokai-python-old
 *.vsix
 .vscode/settings.json
 test/
+pnpm-lock.yaml
