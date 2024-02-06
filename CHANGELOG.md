@@ -1,6 +1,10 @@
 # Change Log
 
-## 0.1.1
+## 0.4.4 
+
+- Fix missing latex highlighting
+
+## 0.4.2
 
 - Fix method decorator coloring 
 
