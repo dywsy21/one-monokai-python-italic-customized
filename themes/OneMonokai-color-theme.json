@@ -202,7 +202,10 @@
       }
     },
     {
-      "scope": "entity.other.inherited-class",
+      "scope": [
+        "entity.other.inherited-class",
+        "text.tex.latex support.function"
+      ],
       "settings": {
         "foreground": "#98C379"
       }
@@ -590,7 +593,7 @@
       "italic": true
     },
     "*.decorator": "#56B6C2",
-    "method.decorator": "#BBBBBB",
+    "method.decorator": "#BBBBBB"
     // "variable.local.readonly": "#61AFEF",
   }
 }
