@@ -5,8 +5,8 @@ Python optimized theme based on [One Monokai](https://marketplace.visualstudio.c
 ## Difference with original One Monokai
 
 - semanticHighlighting support
-- Custom color for "self"
-- Changed "class", "def" color to red
+- Custom color for `self`
+- Changed `class`, `def` color to red
 - Fix strange color for decorator
 - Italic for magic functions
 
