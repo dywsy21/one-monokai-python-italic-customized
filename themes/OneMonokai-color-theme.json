@@ -239,7 +239,8 @@
     {
       "scope": [
         "function.support.builtin",
-        "function.support.core"
+        "function.support.core",
+        "support.function.command"
       ],
       "settings": {
         "foreground": "#98C379"
@@ -278,7 +279,9 @@
     {
       "scope": [
         "support.type",
-        "support.variable"
+        "support.variable",
+        "variable.other.normal.fish",
+        "variable.other.normal.shell"
       ],
       "settings": {
         "foreground": "#61AFEF"

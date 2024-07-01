@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.4.5
+
+- Add fish and bash shell color support
+
 ## 0.4.4 
 
 - Fix missing latex highlighting
