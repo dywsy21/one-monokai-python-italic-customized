@@ -1,9 +1,9 @@
 {
-    "name": "one-monokai-python",
-    "displayName": "One Monokai Python",
-    "description": "Python optimized One Monokai theme",
-    "version": "0.4.5",
-    "publisher": "NoThlnG",
+    "name": "one-monokai-python-italic-customized",
+    "displayName": "One Monokai Python Italic Customized",
+    "description": "Optimized One Monokai theme, with better support for Python and italicized things.",
+    "version": "0.1.0",
+    "publisher": "dywsy21",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai Python",
+                "label": "One Monokai Python Italic Customized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneMonokai-color-theme.json"
             }
@@ -22,18 +22,19 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Indlgo/one-monokai-python.git"
+        "url": "https://github.com/dywsy21/one-monokai-python-italic-customized.git"
     },
     "bugs": {
-        "url": "https://github.com/Indlgo/one-monokai-python/issues"
+        "url": "https://github.com/dywsy21/one-monokai-python-italic-customized.git"
     },
-    "homepage": "https://github.com/Indlgo/one-monokai-python/blob/master/README.md",
+    "homepage": "https://github.com/dywsy21/one-monokai-python-italic-customized",
     "keywords": [
         "Vscode",
         "theme",
         "onedark",
         "Monokai",
-        "python"
+        "python",
+        "italic"
     ],
-    "author": "NoThlnG"
+    "author": "dywsy21"
 }
