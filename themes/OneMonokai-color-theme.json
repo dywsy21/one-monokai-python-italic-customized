@@ -108,10 +108,10 @@
       }
     },
     {
-      "scope": "meta.function-call.arguments",
+      "scope": "meta.function-call.python",
       "settings": {
-        "foreground": "#C678DD",
-        // "fontStyle": "italic"
+        "foreground": "#98c379",
+        "fontStyle":  "italic"
       }
     },
     {
@@ -250,20 +250,21 @@
         "foreground": "#61AFEF"
       }
     },
-    {
-      "name": "Function name",
-      "scope": [
-        "entity.name.function",
-      ],
-      "settings": {
-        "foreground": "#98c379",
-      }
-    },
+    // {
+    //   "name": "Function name",
+    //   "scope": [
+    //     "entity.name.function",
+    //   ],
+    //   "settings": {
+    //     "foreground": "#98c379",
+    //   }
+    // },
     {
       "name": "Function call",
       "scope": [
         "entity.name.function.call",
-        "entity.name.function.member"
+        "entity.name.function.member",
+        "meta.function.call",
         // "support.function"
       ],
       "settings": {
@@ -280,13 +281,6 @@
       "settings": {
         "foreground": "#D19A66",
         // "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "entity.name.function-call",
-      "settings": {
-        "foreground": "#ABB2BF",
-        "fontStyle":  "italic"
       }
     },
     {
@@ -671,6 +665,27 @@
         "fontStyle": "italic"
       }
     },
+    {
+      "scope": "entity.name.function.definition",
+      "settings": {
+        "foreground": "#ffd505",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "entity.name.function.macro",
+      "settings": {
+        "foreground": "#05deff",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#BBBBBB",
+        // "fontStyle": "italic"
+      }
+    },
     // {
     //   "scope": "meta.function.definition",
     //   "settings": {
@@ -688,7 +703,7 @@
       "foreground": "#ffd505",
       "italic": true
     },
-    "function": "#98c379",
+    // "function": "#98c379",
     "function.definition": {
       "foreground": "#ffd505",
       "italic": true

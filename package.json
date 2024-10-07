@@ -2,7 +2,7 @@
     "name": "one-monokai-python-italic-customized",
     "displayName": "One Monokai Python Italic Customized",
     "description": "Optimized One Monokai theme, with better support for Python and italicized things.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "dywsy21",
     "engines": {
         "vscode": "^1.55.0"
