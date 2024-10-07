@@ -275,12 +275,10 @@
     {
       "scope": [
         "variable.parameter",
-        "entity.name.variable.parameter",
-        "parameter.variable"
       ],
       "settings": {
         "foreground": "#D19A66",
-        // "fontStyle": "italic"
+        "fontStyle": "italic"
       }
     },
     {
