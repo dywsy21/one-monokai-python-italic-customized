@@ -671,6 +671,13 @@
       }
     },
     {
+      "scope": ["entity.name.function.c", "entity.name.function.cpp"],
+      "settings": {
+        "foreground": "#ffd505",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": "entity.name.function.macro",
       "settings": {
         "foreground": "#05deff",
